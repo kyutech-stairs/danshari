@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		17DB0FB820ECC80C005BD7A7 /* closet.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17DB0FB720ECC80C005BD7A7 /* closet.storyboard */; };
+		17DB0FBA20ECC95B005BD7A7 /* add.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17DB0FB920ECC95B005BD7A7 /* add.storyboard */; };
+		17DB0FBC20ECC96B005BD7A7 /* danshari.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17DB0FBB20ECC96B005BD7A7 /* danshari.storyboard */; };
 		B24C809220E9E25900536E45 /* AlbumMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24C809120E9E25900536E45 /* AlbumMenuViewController.swift */; };
 		B2523BBB20E38FB5006E46A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2523BBA20E38FB5006E46A7 /* AppDelegate.swift */; };
 		B2523BBD20E38FB5006E46A7 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2523BBC20E38FB5006E46A7 /* HomeViewController.swift */; };
@@ -38,6 +40,8 @@
 
 /* Begin PBXFileReference section */
 		17DB0FB720ECC80C005BD7A7 /* closet.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = closet.storyboard; sourceTree = "<group>"; };
+		17DB0FB920ECC95B005BD7A7 /* add.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = add.storyboard; sourceTree = "<group>"; };
+		17DB0FBB20ECC96B005BD7A7 /* danshari.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = danshari.storyboard; sourceTree = "<group>"; };
 		B24C809120E9E25900536E45 /* AlbumMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumMenuViewController.swift; sourceTree = "<group>"; };
 		B2523BB720E38FB5006E46A7 /* danshari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = danshari.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2523BBA20E38FB5006E46A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -108,6 +112,8 @@
 				B24C809120E9E25900536E45 /* AlbumMenuViewController.swift */,
 				B2523BE820E399C2006E46A7 /* CameraMenuViewController.swift */,
 				B2523BBE20E38FB5006E46A7 /* Main.storyboard */,
+				17DB0FB920ECC95B005BD7A7 /* add.storyboard */,
+				17DB0FBB20ECC96B005BD7A7 /* danshari.storyboard */,
 				17DB0FB720ECC80C005BD7A7 /* closet.storyboard */,
 				B2523BC120E38FB6006E46A7 /* Assets.xcassets */,
 				B2523BC320E38FB6006E46A7 /* LaunchScreen.storyboard */,
@@ -240,6 +246,8 @@
 			files = (
 				B2523BC520E38FB6006E46A7 /* LaunchScreen.storyboard in Resources */,
 				B2523BC220E38FB6006E46A7 /* Assets.xcassets in Resources */,
+				17DB0FBC20ECC96B005BD7A7 /* danshari.storyboard in Resources */,
+				17DB0FBA20ECC95B005BD7A7 /* add.storyboard in Resources */,
 				17DB0FB820ECC80C005BD7A7 /* closet.storyboard in Resources */,
 				B2523BC020E38FB5006E46A7 /* Main.storyboard in Resources */,
 			);
